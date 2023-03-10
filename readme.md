@@ -1,0 +1,6 @@
+Nama : Tita Nabila Putri 
+NIM : 2209116092
+## Fungsionalitas
+algoritma _searching_ merupakan metode yang sistematis dan digunakan untuk mencari suatu data. program ini dibuat untuk memudahkan pengguna atau user dalam melakukan _searching_ data didalam struktur tertentu pada array yang menggunakan metode, diantaranya Fibonaccisearch dan Linearsearch.
+## Cara Kerja Program
+Pada saat user menjalankan program maka data yang berada di dalam array dapat terlihat. ketika user menginput metode search yang ingin digunakan, misalnya jika user atau pengguna menginputkan nomor 1 maka akan menjalankan fungsi metode algoritma Linear Search. sementara jika user atau pengguna menginputkan nomor 2 maka akan menjalankan fungsi metode algoritma Fibonacci Search. ketika user atau pengguna menginputkan data yang berada dalam array maka user dapat melihat data tersebut berada pada index yang telah ditentukan oleh program. lalu jika user menginput data yang tidak ada didalam list array maka output akan menampilkan bahwa data tersebut tidak ada didalam list array.   
